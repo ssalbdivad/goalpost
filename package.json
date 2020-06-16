@@ -9,17 +9,16 @@
         "eject": "react-scripts eject"
     },
     "dependencies": {
-        "@material-ui/core": "4.9.3",
         "@re-do/components": "0.0.4",
         "react-statelessly": "0.0.3",
         "@re-do/recommended": "0.0.1",
         "react": "16.13.1",
         "react-dom": "16.13.1",
         "react-scripts": "3.4.1",
-        "typescript": "3.9.5"
+        "typescript": "3.9.5",
+        "typeface-ubuntu": "0.0.65"
     },
     "devDependencies": {
-        "@types/jest": "24.9.1",
         "@types/node": "14.0.13",
         "@types/react": "16.9.36",
         "@types/react-dom": "16.9.8"

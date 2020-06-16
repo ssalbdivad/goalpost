@@ -1,10 +1,10 @@
 import React from "react"
 import { render } from "react-dom"
-import { Text } from "@re-do/components"
+import { App } from "./App"
 
 render(
     <React.StrictMode>
-        <Text>Hello from Redo!</Text>
+        <App />
     </React.StrictMode>,
     document.getElementById("root")
 )
